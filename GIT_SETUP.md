@@ -1,6 +1,3 @@
-# Git publishing steps
-
-Put the README, saved Packet Tracer `.pkt` file, and safe-to-share screenshots in one project folder.
 
 Suggested layout:
 
@@ -10,7 +7,6 @@ secure-enterprise-network-lab/
 ├── .gitignore
 ├── packet-tracer/
 │   └── secure-enterprise-network-lab.pkt
-└── screenshots/
 
 From a terminal opened in that folder:
 
